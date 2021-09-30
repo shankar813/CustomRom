@@ -30,7 +30,20 @@ p{
     width: 100%;
     white-space: nowrap;
     transition: top 0.3s;
+    list-style-type: none;
+    float: right;
 
+}
+#navbar strong{
+    padding-left: 2.5%;
+}
+
+#navbar img{
+    float:left;
+    color: white;
+    height: 70px;
+    width: 70px;
+    filter: invert(100%);
 }
 
 .emptySpace{
