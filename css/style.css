@@ -4,6 +4,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+.clearfix:after{
+    content: "";
+    display: table;
+    clear:both;
+
+}
 
 body{
     background-image: url("../images/background.jpg");
@@ -81,9 +87,10 @@ img{
 .author-text{
     font-family: cursive;
     font-size: 18px;
-    margin-left: 33px;
+    margin-left: 6%;
 }
 .authorjpg{
+    margin-top: 20px;
     border-radius: 100%;
     width: 13%
 
@@ -97,9 +104,20 @@ img{
 }
 .blog-post{
     float:left;
-    
+    width: 75%;    
 }
 
-.recentpost{
+.recent-post{
+    width: 25%;
     float:left;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.author{
+    margin-bottom: 10px;
+    padding-top:10px;
+    box-shadow: 0px 0px 10px 10px rgba(55,54,51,1);
+    border-top: 5px solid rgb(184, 184, 184)
+
 }
