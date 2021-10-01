@@ -14,7 +14,7 @@
 
 #notificationpanel:hover{
     -webkit-transform:scale(1.5); /* or some other value */
-    transform:scale(2.5);
+    transform:scale(1.5);
     image-rendering: high-quality;
 }
 
