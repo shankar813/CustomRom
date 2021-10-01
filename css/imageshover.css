@@ -1,0 +1,50 @@
+.images {
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    transition:transform 0.25s ease;
+}
+
+
+#homescreen:hover{
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+    image-rendering: pixelated;
+}
+
+#notificationpanel:hover{
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+    image-rendering: high-quality;
+}
+
+#wallpapers:hover{
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+}
+
+#setting:hover{
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+}
+
+#androidversion:hover{
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+}
+
+#magisk:hover{
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+}
+
+#magiskmodule:hover{
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+}
+
+#dolbyatmos:hover{
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+}
+
