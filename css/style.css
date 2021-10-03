@@ -12,7 +12,7 @@
 }
 
 body{
-    background-image: url("../images/background.jpg");
+    background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size:20px;
 }
@@ -21,7 +21,9 @@ p{
     text-align: justify;
     margin-left: 20px;
     margin-right: 10px ;
-    
+    line-height: 27px;
+    word-spacing: 1px;
+    font-family: serif;
 }
 
 #navbar{
@@ -39,6 +41,7 @@ p{
     list-style-type: none;
     float: right;
     z-index: 50;
+    box-shadow: 0px 0px 20px 0px rgb(0, 0, 0);
 
     /* testing begins */
 
@@ -113,7 +116,7 @@ img{
 }
 .container{
     box-shadow: 0px 0px 10px 10px rgba(55,54,51,1);
-    width: 70%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
 
@@ -126,7 +129,7 @@ img{
 }
 
 .recent-post{
-    background-color: rgb(193, 217, 226);
+    background-color: rgb(192, 231, 231);
     border: solid gray;
     width: 24%;
     float:left;
@@ -139,8 +142,9 @@ img{
 
 .author{
     margin-bottom: 10px;
+    background-color: rgb(192, 231, 231);
     padding-top:10px;
-    box-shadow: 0px 0px 10px 10px rgba(55,54,51,1);
+    box-shadow: 0px 0px 10px 0px rgba(55,54,51,1);
     border-top: 5px solid rgb(184, 184, 184)
 
 }
