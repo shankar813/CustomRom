@@ -8,8 +8,8 @@ Please create a new [GitHub issue](https://github.com/mukeshcs2018/CustomRom/iss
 ### Steps to get it running:
 
 ##### 1. Fork this repo
-##### 2. create live server
-##### 3. Enjoy
+##### 2. Create live server
+##### 3. Enjoy 
 
 
 
