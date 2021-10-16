@@ -21,6 +21,7 @@ Please create a new [GitHub issue](https://github.com/mukeshcs2018/CustomRom/iss
 ## Contributing
 
 If you're interested in contributing to this project, great! Please see the [CONTRIBUTING](CONTRIBUTING.md) document.
+It would be better if you know js.
 
 
 ## Contributors
